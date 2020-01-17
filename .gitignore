@@ -1,0 +1,7 @@
+node_modules/
+**/.DS_STORE
+venv/
+chromedriver
+chromedriver.exe
+.vscode/
+Diagrams/Leaderboard.png
